@@ -3,8 +3,8 @@
 Welcome to our first Data Analytics project, developed as part of our academic curriculum. This project focuses on analyzing e-commerce customer behavior to extract actionable business insights using Python.
 
 ## 👥 Team Members
-* **Beisan Ahmad** (Data Preprocessing & Cleaning)
-* **Jana Shahrouri** (Descriptive & Inferential Statistics)
+* **Besan Ahmad** (Data Preprocessing & Cleaning)
+* **Jana Shahrore** (Descriptive & Inferential Statistics)
 * **Hala Masri** (Multivariate Correlation Analysis)
 
 ## 🚀 Project Pipeline
